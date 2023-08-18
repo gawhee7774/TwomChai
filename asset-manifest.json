@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TwomChai/static/css/main.4671b91d.css",
+    "main.js": "/TwomChai/static/js/main.0e787f2d.js",
+    "static/js/787.e6e74495.chunk.js": "/TwomChai/static/js/787.e6e74495.chunk.js",
+    "static/media/mainbg.png": "/TwomChai/static/media/mainbg.27e51ff414c82802a9ca.png",
+    "index.html": "/TwomChai/index.html",
+    "main.4671b91d.css.map": "/TwomChai/static/css/main.4671b91d.css.map",
+    "main.0e787f2d.js.map": "/TwomChai/static/js/main.0e787f2d.js.map",
+    "787.e6e74495.chunk.js.map": "/TwomChai/static/js/787.e6e74495.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4671b91d.css",
+    "static/js/main.0e787f2d.js"
+  ]
+}
